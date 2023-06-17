@@ -39,7 +39,7 @@ wget https://ftp.gnu.org/pub/gnu/ncurses/ncurses-6.2.tar.gz -P ~/Downloads
   - 설치확인은 make -v
 
 ```sh
-./cofnigure
+./configure
 
 make
 
